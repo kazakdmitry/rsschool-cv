@@ -16,3 +16,7 @@ def duplicate_encode(word):
             lst1.append(")")
     return "".join(lst1)  
 ```
+##Experience##
+I've solved some task in codewars.com
+**link** https://www.codewars.com/users/kazakdmitry/stats	
+###end###
